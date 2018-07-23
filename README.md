@@ -1,0 +1,2 @@
+# multitailrc
+Some multitail configs
